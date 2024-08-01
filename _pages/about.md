@@ -13,7 +13,7 @@ Who am I?
 ======
 I'm a second year Ph.D student from [Data Science and Analytics Thrust](https://dsa.hkust-gz.edu.cn/), INFO Hub, [HKUST(GZ)](https://www.hkust-gz.edu.cn/).
 
-My research interests include AI4DE and Deep Learning.
+My research interests include: AI4DE and Deep Learning.
 
 I am supervised by [Prof. Wei WANG](https://www.XXX.com/) and co-supervised by [Prof. Zhilu LAI](https://www.XXX.com/).
 

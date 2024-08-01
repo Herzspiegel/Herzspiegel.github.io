@@ -11,11 +11,11 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 Who am I?
 ======
-I'm a second year Ph.D student from [Data Science and Analytics Thrust](https://dsa.hkust-gz.edu.cn/), INFO Hub, [HKUST(GZ)](https://www.hkust-gz.edu.cn/).
+I'm a second year Ph.D. student from [Data Science and Analytics Thrust](https://dsa.hkust-gz.edu.cn/), INFO Hub, [HKUST(GZ)](https://www.hkust-gz.edu.cn/).
 
 My research interests include: AI4DE and Deep Learning.
 
-I am supervised by [Prof. Wei WANG](https://www.XXX.com/) and co-supervised by [Prof. Zhilu LAI](https://www.XXX.com/).
+Now I'm supervised by [Prof. Wei WANG](https://www.XXX.com/) and co-supervised by [Prof. Zhilu LAI](https://www.XXX.com/).
 
 [CV](../assets/Curriculum_Vitae.pdf) / [Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
 

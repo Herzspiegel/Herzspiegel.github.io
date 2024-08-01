@@ -17,9 +17,7 @@ My research interests include AI4DE and Deep Learning.
 
 I am supervised by [Prof. Wei WANG](https://www.XXX.com/) and co-supervised by [Prof. Zhilu LAI](https://www.XXX.com/).
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[CV](../assets/Curriculum_Vitae.pdf) / [Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
 
 Getting started
 ======

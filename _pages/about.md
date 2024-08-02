@@ -15,9 +15,9 @@ I'm a second year Ph.D. student from [Data Science and Analytics Thrust](https:/
 
 My research interests include: AI4DE and Deep Learning.
 
-Now I'm supervised by [Prof. Wei WANG](https://www.XXX.com/) and co-supervised by [Prof. Zhilu LAI](https://www.XXX.com/).
+Now I'm supervised by [Prof. Wei WANG](https://www.XXX.com/), and co-supervised by [Prof. Zhilu LAI](https://www.XXX.com/).
 
-[CV](../assets/Curriculum_Vitae.pdf) / [Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[CV](../assets/Curriculum_Vitae.pdf) / [Email](mailto:hzsonne@gmail.com) / [Github](https://github.com/Herzspiegel)
 
 Getting started
 ======

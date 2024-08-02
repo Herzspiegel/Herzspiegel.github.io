@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Haoze SONG"
-  pronouns         : # example: "she/her"  
+  # pronouns         : # example: "she/her"  
   bio              : "From one local optimum to another"
   location         : "Guangzhou, China"
   employer         : "HKUST(GZ)"
-  uri              : # URL
+  # uri              : # URL
   email            : "hzsonne@gmail.com" 
 
   # Academic websites

@@ -15,7 +15,7 @@ I'm a second year Ph.D. student from [Data Science and Analytics Thrust](https:/
 
 My research interests include: AI4DE and Deep Learning.
 
-Now I'm supervised by [Prof. Wei WANG](https://www.XXX.com/), and co-supervised by [Prof. Zhilu LAI](https://www.XXX.com/).
+Now I'm supervised by [Prof. Wei WANG](https://cse.hkust.edu.hk/~weiwcs/), and co-supervised by [Prof. Zhilu LAI](https://zlaidyn.github.io/).
 
 [CV](../assets/Curriculum_Vitae.pdf) / [Email](mailto:hzsonne@gmail.com) / [Github](https://github.com/Herzspiegel)
 

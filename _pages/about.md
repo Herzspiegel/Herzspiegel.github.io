@@ -19,7 +19,7 @@ Now I'm supervised by [Prof. Wei WANG](https://cse.hkust.edu.hk/~weiwcs/), and c
 
 [CV](../assets/Curriculum_Vitae.pdf) / [Email](mailto:hzsonne@gmail.com) / [Github](https://github.com/Herzspiegel)
 
-Getting started
+Where to focus?
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 

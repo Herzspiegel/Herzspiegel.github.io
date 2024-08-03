@@ -13,7 +13,7 @@ Who am I?
 ======
 I'm a second year Ph.D. student from [Data Science and Analytics Thrust](https://dsa.hkust-gz.edu.cn/), INFO Hub, [HKUST(GZ)](https://www.hkust-gz.edu.cn/).
 
-My research interests include: AI4DE and Deep Learning.
+My research interests include: AI4DE and Deep Learning, 
 
 Now I'm supervised by [Prof. Wei WANG](https://cse.hkust.edu.hk/~weiwcs/), and co-supervised by [Prof. Zhilu LAI](https://zlaidyn.github.io/).
 
@@ -21,8 +21,8 @@ Now I'm supervised by [Prof. Wei WANG](https://cse.hkust.edu.hk/~weiwcs/), and c
 
 Where to focus?
 ======
-1. Interdisciplinary research: physical guidance of DL model design for scientific problems
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+1. Interdisciplinary research: We need more (mathematical/physical) guidance of DL model design for scientific problems. Understanding the physical theory and apply them to design a new DNN architechture is important to tackle those problems.
+1. Explanation and Exploration of NN: there are many interesting cross-points/lines, all of them locate in different research domain. One of my research interests is to find the connection and go further to improve them, especially in Deep Learning and Neural Network.
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  

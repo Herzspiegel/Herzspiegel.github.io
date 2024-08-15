@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Data Science and Analytics, The Hong Kong University of Science and Technology (GZ), China, 2023-/
+* Ph.D in Data Science and Analytics, The Hong Kong University of Science and Technology (GZ), China, 2023-2027
 * B.S. in Tongji University, China, 2019-2023
 
 Work experience

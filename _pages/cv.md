@@ -22,7 +22,7 @@ Skills
 * **Machine Learning:** PyTorch • Scikit-learn
 * **Programming:** Python • Julia • C++ 
 * **Languages:** English (Professional Proficiency) • Mandarin (Native) • German B2
-* * **DevOps:** Docker • Netcat • Nmap • Wireshark • Apache • Nginx
+* **DevOps:** Docker • Netcat • Nmap • Wireshark • Apache • Nginx
 
 Publications
 ======

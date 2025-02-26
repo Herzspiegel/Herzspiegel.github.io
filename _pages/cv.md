@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Data Science and Analytics, The Hong Kong University of Science and Technology (GZ), China, 2023-2027
-* B.S. in Tongji University, China, 2019-2023
+* Ph.D Student (2nd year) in Data Science and Analytics, The Hong Kong University of Science and Technology (GZ), China, 2023-now
+* B.Eng. in Mechatronics, Tongji University, China, 2019-2023
 
 Work experience
 ======
@@ -33,12 +33,14 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer Program
+  * Pytorch
+  * Julia
+* Basic German
+* Basic Linux Ops
+  * NetCat, Nmap
+  * Apache, Nginx
+  * Docker
 
 Publications
 ======

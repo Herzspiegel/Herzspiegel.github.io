@@ -11,8 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D Student (2nd year) in Data Science and Analytics, The Hong Kong University of Science and Technology (GZ), China, 2023-now
-* B.Eng. in Mechatronics, Tongji University, China, 2019-2023
+* **Ph.D. Candidate in Data Science and Analytics**  
+The Hong Kong University of Science and Technology (Guangzhou) | *2023–Present*  
+• Specialization in Machine Learning Systems  
+• GPA: 3.8/4.0  
+
+* **B.Eng. Mechatronic Engineering**  
+Tongji University | *2019–2023*  
+• Graduated with First Class Honors  
+• Relevant Coursework: Advanced Mathematics for AI, Computational Robotics
   
 Skills
 ======

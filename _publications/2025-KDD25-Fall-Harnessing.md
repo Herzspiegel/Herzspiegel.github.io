@@ -1,11 +1,11 @@
 ---
-title: "Paper Title Number 4"
+title: "Harnessing Scale and Physics: A Multi-Graph Neural Operator Framework for PDEs on Arbitrary Geometries"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2025-KDD25-Fall-Harnessing
 excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
+date: 2025-02
 venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://openreview.net/forum?id=RFRYWmHbfE&referrer=%5Bthe%20profile%20of%20Zhihao%20Li%5D(%2Fprofile%3Fid%3D~Zhihao_Li4)'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 

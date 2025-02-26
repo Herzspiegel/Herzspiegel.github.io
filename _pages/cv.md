@@ -33,6 +33,14 @@ Work experience
   
 Skills
 ======
+* **Machine Learning:** PyTorch • Scikit-learn • TensorFlow Lite 
+* **Programming:** Python • Julia • C++ 
+* **DevOps:** Docker Containerization • CI/CD Pipelines   
+* **Network Operations:** Netcat • Nmap Scanning • Wireshark Analysis    
+* **Web Infrastructure:** Apache HTTP Server • NGINX Reverse Proxy Configuration    
+* **Languages:** English (Professional Proficiency) • Mandarin (Native) • German A1  
+
+
 * Computer Program
   * Pytorch
   * Julia
